@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daksh212
-- 👀 I’m interested in bioinformatics, data science, numbers, and football (or 'soccer', for any Americans are reading this)
+- 👀 I’m interested in bioinformatics, data science, numbers, and football ('soccer', I hate calling it that but when in Rome...)
 - 🌱 I’m currently learning Bash, Dockers, Python, R
 - 💞️ I’m looking to collaborate on anything and everything! Just looking to learn
 - 📫 How to reach me daksh.saksena@gmail.com or @dakshsaksena on Instagram if you wanna share memes
