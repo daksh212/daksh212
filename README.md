@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daksh Saksena, currently doing my master's in Bioinformatics from Johns Hopkins. (Not sure when that would stop feeling like a flex.
+- 👋 Hi, I’m Daksh Saksena, currently doing my master's in Bioinformatics from Johns Hopkins. (Not sure when that would stop feeling like a flex.)
 - 👀 I’m interested in bioinformatics, data science, numbers, and medicine
 - ⚽️ Apart from that, I really consider myself an outdoorsy and active person. I love football('soccer', I hate calling it that but when in Rome...), going to the gym and hiking!
 - 🩺 My passion for medicine started in the 8th grade. I think I have certain qualities like hard work, quick learning, and having a high understanding of people, which make me a perfect fit in the vast ocean of data science and medicine. It would be my own personal way of making a difference in society, and giving back.
